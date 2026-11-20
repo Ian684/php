@@ -95,4 +95,4 @@ $calls=0;$f=p_memoize(function($x)use(&$calls){$calls++;return $x*$x;});moreChec
 moreCheck(p_smallest([4,1,1,3],3)===[1,1,3]);moreCheck(p_smallest([],4)===[]);
 // 50 時區轉換保留同一時刻
 moreCheck(p_timezone('2026-01-01 08:00','Asia/Taipei','UTC')==='2026-01-01 00:00');moreCheck(p_timezone('2026-07-01 12:00','UTC','America/New_York')==='2026-07-01 08:00');
-echo "46 additional PHP exercises passed\n";
+echo "PHP exercises passed\n";
