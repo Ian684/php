@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "title": "整數金額統計",
+    "source": "practice/budget.php",
+    "entry": "categoryTotals",
+    "goal": ""
+  },
+  {
+    "id": 2,
+    "title": "表單驗證",
+    "source": "practice/validation.php",
+    "entry": "validateRegistration",
+    "goal": ""
+  },
+  {
+    "id": 3,
+    "title": "資料庫轉帳",
+    "source": "practice/ledger.php",
+    "entry": "transfer",
+    "goal": ""
+  },
+  {
+    "id": 4,
+    "title": "JSON 檔案鎖",
+    "source": "practice/json_store.php",
+    "entry": "updateNotes",
+    "goal": ""
+  },
+  {
+    "id": 5,
+    "title": "ASCII 網址短名",
+    "source": "practice/more.php",
+    "entry": "p_slug",
+    "goal": ""
+  },
+  {
+    "id": 6,
+    "title": "Unicode 字元截斷",
+    "source": "practice/more.php",
+    "entry": "p_truncate",
+    "goal": ""
+  },
+  {
+    "id": 7,
+    "title": "英數回文正規化",
+    "source": "practice/more.php",
+    "entry": "p_palindrome",
+    "goal": ""
+  },
+  {
+    "id": 8,
+    "title": "駝峰名稱轉底線",
+    "source": "practice/more.php",
+    "entry": "p_snake",
+    "goal": ""
+  },
+  {
+    "id": 9,
+    "title": "郵件帳號遮罩",
+    "source": "practice/more.php",
+    "entry": "p_mask_email",
+    "goal": ""
+  },
+  {
+    "id": 10,
+    "title": "RFC3986 查詢參數",
+    "source": "practice/more.php",
+    "entry": "p_query",
+    "goal": ""
+  },
+  {
+    "id": 11,
+    "title": "HTTP URL 欄位解析",
+    "source": "practice/more.php",
+    "entry": "p_url_parts",
+    "goal": ""
+  },
+  {
+    "id": 12,
+    "title": "HTML 表格文字編碼",
+    "source": "practice/more.php",
+    "entry": "p_table",
+    "goal": ""
+  },
+  {
+    "id": 13,
+    "title": "CSV 引號解析",
+    "source": "practice/more.php",
+    "entry": "p_csv_parse",
+    "goal": ""
+  },
+  {
+    "id": 14,
+    "title": "CSV 欄位往返",
+    "source": "practice/more.php",
+    "entry": "p_csv_write",
+    "goal": ""
+  },
+  {
+    "id": 15,
+    "title": "JSON 物件型別驗證",
+    "source": "practice/more.php",
+    "entry": "p_json_object",
+    "goal": ""
+  },
+  {
+    "id": 16,
+    "title": "巢狀陣列路徑",
+    "source": "practice/more.php",
+    "entry": "p_deep_get",
+    "goal": ""
+  },
+  {
+    "id": 17,
+    "title": "設定合併與覆蓋",
+    "source": "practice/more.php",
+    "entry": "p_deep_merge",
+    "goal": ""
+  },
+  {
+    "id": 18,
+    "title": "記錄依欄位分組",
+    "source": "practice/more.php",
+    "entry": "p_group",
+    "goal": ""
+  },
+  {
+    "id": 19,
+    "title": "唯一索引與重複鍵",
+    "source": "practice/more.php",
+    "entry": "p_index",
+    "goal": ""
+  },
+  {
+    "id": 20,
+    "title": "遞迴攤平陣列",
+    "source": "practice/more.php",
+    "entry": "p_flatten",
+    "goal": ""
+  },
+  {
+    "id": 21,
+    "title": "閉包作為條件",
+    "source": "practice/more.php",
+    "entry": "p_partition",
+    "goal": ""
+  },
+  {
+    "id": 22,
+    "title": "嚴格型別去重",
+    "source": "practice/more.php",
+    "entry": "p_unique",
+    "goal": ""
+  },
+  {
+    "id": 23,
+    "title": "字串計數",
+    "source": "practice/more.php",
+    "entry": "p_histogram",
+    "goal": ""
+  },
+  {
+    "id": 24,
+    "title": "多欄位排序",
+    "source": "practice/more.php",
+    "entry": "p_ranked_records",
+    "goal": ""
+  },
+  {
+    "id": 25,
+    "title": "奇偶數量中位數",
+    "source": "practice/more.php",
+    "entry": "p_median",
+    "goal": ""
+  },
+  {
+    "id": 26,
+    "title": "固定視窗平均",
+    "source": "practice/more.php",
+    "entry": "p_moving_average",
+    "goal": ""
+  },
+  {
+    "id": 27,
+    "title": "整數連號合併",
+    "source": "practice/more.php",
+    "entry": "p_ranges",
+    "goal": ""
+  },
+  {
+    "id": 28,
+    "title": "等長配對",
+    "source": "practice/more.php",
+    "entry": "p_zip",
+    "goal": ""
+  },
+  {
+    "id": 29,
+    "title": "矩陣行列交換",
+    "source": "practice/more.php",
+    "entry": "p_transpose",
+    "goal": ""
+  },
+  {
+    "id": 30,
+    "title": "內積與長度檢查",
+    "source": "practice/more.php",
+    "entry": "p_dot_product",
+    "goal": ""
+  },
+  {
+    "id": 31,
+    "title": "嚴格日期解析",
+    "source": "practice/more.php",
+    "entry": "p_strict_date",
+    "goal": ""
+  },
+  {
+    "id": 32,
+    "title": "跨月日期列舉",
+    "source": "practice/more.php",
+    "entry": "p_date_range",
+    "goal": ""
+  },
+  {
+    "id": 33,
+    "title": "週末與假日排除",
+    "source": "practice/more.php",
+    "entry": "p_business_days",
+    "goal": ""
+  },
+  {
+    "id": 34,
+    "title": "月份最後一天",
+    "source": "practice/more.php",
+    "entry": "p_month_end",
+    "goal": ""
+  },
+  {
+    "id": 35,
+    "title": "秒數轉時分秒",
+    "source": "practice/more.php",
+    "entry": "p_duration",
+    "goal": ""
+  },
+  {
+    "id": 36,
+    "title": "嚴格時刻轉秒",
+    "source": "practice/more.php",
+    "entry": "p_time_seconds",
+    "goal": ""
+  },
+  {
+    "id": 37,
+    "title": "整數容量解析",
+    "source": "practice/more.php",
+    "entry": "p_byte_size",
+    "goal": ""
+  },
+  {
+    "id": 38,
+    "title": "容量顯示",
+    "source": "practice/more.php",
+    "entry": "p_human_bytes",
+    "goal": ""
+  },
+  {
+    "id": 39,
+    "title": "Hex 非法值拒絕",
+    "source": "practice/more.php",
+    "entry": "p_hex_decode",
+    "goal": ""
+  },
+  {
+    "id": 40,
+    "title": "嚴格 Base64",
+    "source": "practice/more.php",
+    "entry": "p_base64_decode",
+    "goal": ""
+  },
+  {
+    "id": 41,
+    "title": "Luhn 檢查碼",
+    "source": "practice/more.php",
+    "entry": "p_luhn",
+    "goal": ""
+  },
+  {
+    "id": 42,
+    "title": "ISBN-10 與 X",
+    "source": "practice/more.php",
+    "entry": "p_isbn10",
+    "goal": ""
+  },
+  {
+    "id": 43,
+    "title": "IPv4 整數表示",
+    "source": "practice/more.php",
+    "entry": "p_ipv4",
+    "goal": ""
+  },
+  {
+    "id": 44,
+    "title": "CIDR 網段邊界",
+    "source": "practice/more.php",
+    "entry": "p_network",
+    "goal": ""
+  },
+  {
+    "id": 45,
+    "title": "enum 與合法狀態轉移",
+    "source": "practice/more.php",
+    "entry": "p_next_status",
+    "goal": ""
+  },
+  {
+    "id": 46,
+    "title": "interface 與整數折扣",
+    "source": "practice/more.php",
+    "entry": "p_discount",
+    "goal": ""
+  },
+  {
+    "id": 47,
+    "title": "generator 分頁",
+    "source": "practice/more.php",
+    "entry": "p_pages",
+    "goal": ""
+  },
+  {
+    "id": 48,
+    "title": "閉包捕獲快取",
+    "source": "practice/more.php",
+    "entry": "p_memoize",
+    "goal": ""
+  },
+  {
+    "id": 49,
+    "title": "SPL 最小堆積",
+    "source": "practice/more.php",
+    "entry": "p_smallest",
+    "goal": ""
+  },
+  {
+    "id": 50,
+    "title": "時區轉換保留同一時刻",
+    "source": "practice/more.php",
+    "entry": "p_timezone",
+    "goal": ""
+  }
+]

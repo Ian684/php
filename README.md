@@ -1,5 +1,9 @@
 # PHP 小型實作練習
 
+**目前共 50 個實作練習單元。** 完整題號、來源與執行方式見 [CATALOG.md](CATALOG.md)，機器可讀清單見 [EXERCISES.json](EXERCISES.json)。
+
+以下保留起步練習的說明；其餘題目按完整目錄閱讀。
+
 需要 **64 位元 PHP 8.1 以上**與 PDO SQLite。用 CLI 範例練習輸入驗證、整數金額、交易與檔案鎖，沒有框架或外部服務。
 
     php demo.php

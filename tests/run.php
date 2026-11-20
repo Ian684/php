@@ -45,3 +45,4 @@ try {
     fails(fn()=>updateNotes($path, fn($notes)=>[]), JsonException::class);
 } finally { unlink($path); }
 echo "4 PHP exercises: validation, money, transactions and JSON checks passed\n";
+require __DIR__.'/more.php';
