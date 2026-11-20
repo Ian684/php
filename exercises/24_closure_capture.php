@@ -1,0 +1,23 @@
+<?php
+$value = 12;
+$right = 12;
+$record = ["name" => "Ada", "score" => 92];
+$values = [12, 7, 19, 3, 25];
+$email = "practice@example.com";
+$password = "example-password";
+$text = "PHP Practice";
+$status = 2;
+$factor = 3;
+$line = "Ada,92,A";
+$matches = [];
+$topic = "closure_capture";
+echo "Exercise 24: " . $topic . PHP_EOL;
+echo "Mechanism: fn($value) => $value * $factor" . PHP_EOL;
+echo "Values: " . implode(",", $values) . PHP_EOL;
+echo "Record: " . json_encode($record) . PHP_EOL;
+echo "Double: " . ($value * 2) . PHP_EOL;
+echo "Filtered: " . implode(",", array_filter($values, fn($item) => $item >= 10)) . PHP_EOL;
+echo "Sorted: " . implode(",", array_reverse($values)) . PHP_EOL;
+echo "Email valid: " . (filter_var($email, FILTER_VALIDATE_EMAIL) ? "yes" : "no") . PHP_EOL;
+echo "Escaped: " . htmlspecialchars($text, ENT_QUOTES, "UTF-8") . PHP_EOL;
+echo "Temp file: " . tempnam(sys_get_temp_dir(), "php") . PHP_EOL;
