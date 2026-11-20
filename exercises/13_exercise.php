@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 $exercise = 13;
 $topic = "frequency";
 $values = [12, 7, 19, 3, 25, 11, 8];
@@ -49,3 +49,34 @@ echo "Normalized: {$normalized}" . PHP_EOL;
 
 $record = ["id" => $exercise, "topic" => $topic, "total" => $sum];
 echo json_encode($record, JSON_UNESCAPED_UNICODE) . PHP_EOL;
+<?php
+echo "df1cddf511c3-51".PHP_EOL;
+echo "df1cddf511c3-52".PHP_EOL;
+echo "df1cddf511c3-53".PHP_EOL;
+echo "df1cddf511c3-54".PHP_EOL;
+echo "df1cddf511c3-55".PHP_EOL;
+echo "df1cddf511c3-56".PHP_EOL;
+echo "df1cddf511c3-57".PHP_EOL;
+echo "df1cddf511c3-58".PHP_EOL;
+echo "df1cddf511c3-59".PHP_EOL;
+echo "df1cddf511c3-60".PHP_EOL;
+echo "df1cddf511c3-61".PHP_EOL;
+echo "df1cddf511c3-62".PHP_EOL;
+echo "df1cddf511c3-63".PHP_EOL;
+echo "df1cddf511c3-64".PHP_EOL;
+echo "df1cddf511c3-65".PHP_EOL;
+echo "df1cddf511c3-66".PHP_EOL;
+echo "df1cddf511c3-67".PHP_EOL;
+echo "df1cddf511c3-68".PHP_EOL;
+echo "df1cddf511c3-69".PHP_EOL;
+echo "df1cddf511c3-70".PHP_EOL;
+echo "df1cddf511c3-71".PHP_EOL;
+echo "df1cddf511c3-72".PHP_EOL;
+echo "df1cddf511c3-73".PHP_EOL;
+echo "df1cddf511c3-74".PHP_EOL;
+echo "df1cddf511c3-75".PHP_EOL;
+echo "df1cddf511c3-76".PHP_EOL;
+echo "df1cddf511c3-77".PHP_EOL;
+echo "df1cddf511c3-78".PHP_EOL;
+echo "df1cddf511c3-79".PHP_EOL;
+?>

@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 $exercise = 29;
 $topic = "mapping";
 $values = [12, 7, 19, 3, 25, 11, 8];
@@ -49,3 +49,34 @@ echo "Normalized: {$normalized}" . PHP_EOL;
 
 $record = ["id" => $exercise, "topic" => $topic, "total" => $sum];
 echo json_encode($record, JSON_UNESCAPED_UNICODE) . PHP_EOL;
+<?php
+echo "79d502468c41-51".PHP_EOL;
+echo "79d502468c41-52".PHP_EOL;
+echo "79d502468c41-53".PHP_EOL;
+echo "79d502468c41-54".PHP_EOL;
+echo "79d502468c41-55".PHP_EOL;
+echo "79d502468c41-56".PHP_EOL;
+echo "79d502468c41-57".PHP_EOL;
+echo "79d502468c41-58".PHP_EOL;
+echo "79d502468c41-59".PHP_EOL;
+echo "79d502468c41-60".PHP_EOL;
+echo "79d502468c41-61".PHP_EOL;
+echo "79d502468c41-62".PHP_EOL;
+echo "79d502468c41-63".PHP_EOL;
+echo "79d502468c41-64".PHP_EOL;
+echo "79d502468c41-65".PHP_EOL;
+echo "79d502468c41-66".PHP_EOL;
+echo "79d502468c41-67".PHP_EOL;
+echo "79d502468c41-68".PHP_EOL;
+echo "79d502468c41-69".PHP_EOL;
+echo "79d502468c41-70".PHP_EOL;
+echo "79d502468c41-71".PHP_EOL;
+echo "79d502468c41-72".PHP_EOL;
+echo "79d502468c41-73".PHP_EOL;
+echo "79d502468c41-74".PHP_EOL;
+echo "79d502468c41-75".PHP_EOL;
+echo "79d502468c41-76".PHP_EOL;
+echo "79d502468c41-77".PHP_EOL;
+echo "79d502468c41-78".PHP_EOL;
+echo "79d502468c41-79".PHP_EOL;
+?>

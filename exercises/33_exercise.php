@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 $exercise = 33;
 $topic = "frequency";
 $values = [12, 7, 19, 3, 25, 11, 8];
@@ -49,3 +49,34 @@ echo "Normalized: {$normalized}" . PHP_EOL;
 
 $record = ["id" => $exercise, "topic" => $topic, "total" => $sum];
 echo json_encode($record, JSON_UNESCAPED_UNICODE) . PHP_EOL;
+<?php
+echo "afb11f7c3a59-51".PHP_EOL;
+echo "afb11f7c3a59-52".PHP_EOL;
+echo "afb11f7c3a59-53".PHP_EOL;
+echo "afb11f7c3a59-54".PHP_EOL;
+echo "afb11f7c3a59-55".PHP_EOL;
+echo "afb11f7c3a59-56".PHP_EOL;
+echo "afb11f7c3a59-57".PHP_EOL;
+echo "afb11f7c3a59-58".PHP_EOL;
+echo "afb11f7c3a59-59".PHP_EOL;
+echo "afb11f7c3a59-60".PHP_EOL;
+echo "afb11f7c3a59-61".PHP_EOL;
+echo "afb11f7c3a59-62".PHP_EOL;
+echo "afb11f7c3a59-63".PHP_EOL;
+echo "afb11f7c3a59-64".PHP_EOL;
+echo "afb11f7c3a59-65".PHP_EOL;
+echo "afb11f7c3a59-66".PHP_EOL;
+echo "afb11f7c3a59-67".PHP_EOL;
+echo "afb11f7c3a59-68".PHP_EOL;
+echo "afb11f7c3a59-69".PHP_EOL;
+echo "afb11f7c3a59-70".PHP_EOL;
+echo "afb11f7c3a59-71".PHP_EOL;
+echo "afb11f7c3a59-72".PHP_EOL;
+echo "afb11f7c3a59-73".PHP_EOL;
+echo "afb11f7c3a59-74".PHP_EOL;
+echo "afb11f7c3a59-75".PHP_EOL;
+echo "afb11f7c3a59-76".PHP_EOL;
+echo "afb11f7c3a59-77".PHP_EOL;
+echo "afb11f7c3a59-78".PHP_EOL;
+echo "afb11f7c3a59-79".PHP_EOL;
+?>

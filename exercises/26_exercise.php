@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 $exercise = 26;
 $topic = "sorting";
 $values = [12, 7, 19, 3, 25, 11, 8];
@@ -49,3 +49,34 @@ echo "Normalized: {$normalized}" . PHP_EOL;
 
 $record = ["id" => $exercise, "topic" => $topic, "total" => $sum];
 echo json_encode($record, JSON_UNESCAPED_UNICODE) . PHP_EOL;
+<?php
+echo "4c7ccff14cb4-51".PHP_EOL;
+echo "4c7ccff14cb4-52".PHP_EOL;
+echo "4c7ccff14cb4-53".PHP_EOL;
+echo "4c7ccff14cb4-54".PHP_EOL;
+echo "4c7ccff14cb4-55".PHP_EOL;
+echo "4c7ccff14cb4-56".PHP_EOL;
+echo "4c7ccff14cb4-57".PHP_EOL;
+echo "4c7ccff14cb4-58".PHP_EOL;
+echo "4c7ccff14cb4-59".PHP_EOL;
+echo "4c7ccff14cb4-60".PHP_EOL;
+echo "4c7ccff14cb4-61".PHP_EOL;
+echo "4c7ccff14cb4-62".PHP_EOL;
+echo "4c7ccff14cb4-63".PHP_EOL;
+echo "4c7ccff14cb4-64".PHP_EOL;
+echo "4c7ccff14cb4-65".PHP_EOL;
+echo "4c7ccff14cb4-66".PHP_EOL;
+echo "4c7ccff14cb4-67".PHP_EOL;
+echo "4c7ccff14cb4-68".PHP_EOL;
+echo "4c7ccff14cb4-69".PHP_EOL;
+echo "4c7ccff14cb4-70".PHP_EOL;
+echo "4c7ccff14cb4-71".PHP_EOL;
+echo "4c7ccff14cb4-72".PHP_EOL;
+echo "4c7ccff14cb4-73".PHP_EOL;
+echo "4c7ccff14cb4-74".PHP_EOL;
+echo "4c7ccff14cb4-75".PHP_EOL;
+echo "4c7ccff14cb4-76".PHP_EOL;
+echo "4c7ccff14cb4-77".PHP_EOL;
+echo "4c7ccff14cb4-78".PHP_EOL;
+echo "4c7ccff14cb4-79".PHP_EOL;
+?>
